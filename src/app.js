@@ -69,11 +69,7 @@ app.get('/weather', (req,res) => {
             })
         })
     })
-    // res.send({
-    //     message: "address was provided",
-    //     address, 
-    //     test 
-    // })
+ 
 })
 
 app.get('/products', (req,res) => {
